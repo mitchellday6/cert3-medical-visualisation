@@ -18,5 +18,5 @@ The *"matplotlib-visualise.py"* file has python code that visualises a set of pa
     - Install matplotlib 
         > python -m pip install -U matplotlib 
     - Once you have it installed run the file using python
-        > python matplotlib.py
+        > python matplotlib-visualise.py
 
